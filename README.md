@@ -1,2 +1,28 @@
-# board-games-customer-feedback-and-feature-request-system
-A comprehensive customer feedback and feature request system designed specifically for the board games industry.
+# Board Games Customer Feedback and Feature Request System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E9AT3aLgaU9JK33md002L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E9AT3aLgaU9JK33md002L)
+
